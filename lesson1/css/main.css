@@ -1,0 +1,8 @@
+.one {
+    background: silver;
+    min-height: 200px;
+    width: 300px;
+}
+.one > h1 {
+    text-align: center;
+}
